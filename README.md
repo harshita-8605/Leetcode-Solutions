@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
