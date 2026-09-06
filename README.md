@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## String
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Counting
