@@ -1,7 +1,7 @@
 # Write your MySQL query statement below
 SELECT name
 FROM Employee AS E INNER JOIN (
-    SELECT managerId, COUNT(*)
+    SELECT managerId
     FROM 
     Employee AS E
     GROUP BY managerId
