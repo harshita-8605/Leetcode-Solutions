@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [2939-maximum-xor-product](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/2939-maximum-xor-product) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [2939-maximum-xor-product](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/2939-maximum-xor-product) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/1789-primary-department-for-each-employee) |
 | [1934-confirmation-rate](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Greedy
+|  |
+| ------- |
+| [2939-maximum-xor-product](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/2939-maximum-xor-product) |
 <!---LeetCode Topics End-->
