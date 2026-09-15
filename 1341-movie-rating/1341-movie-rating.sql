@@ -1,16 +1,16 @@
 # Write your MySQL query statement below
 WITH person_name AS(
-    SELECT U.name AS Name, Count(MR.movie_id) AS movies_count
+    SELECT U.name AS Name
     FROM MovieRating AS MR
         LEFT JOIN Movies AS M ON MR.movie_id = M.movie_id
         LEFT JOIN Users AS U ON MR.user_id = U.user_id
     GROUP BY U.name
-    ORDER BY movies_count DESC, U.name ASC
+    ORDER BY Count(MR.movie_id) DESC, U.name ASC
     LIMIT 1
 ),
 
 movie_name AS(
-    SELECT M.title AS Movie, AVG(rating) AS highest_rating
+    SELECT M.title AS Movie
     FROM MovieRating AS MR
         LEFT JOIN Movies AS M ON MR.movie_id = M.movie_id
     WHERE YEAR(MR.created_at) = 2020 && MONTH(MR.created_at) = 2
