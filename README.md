@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 ## Backtracking
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2939-maximum-xor-product](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/2939-maximum-xor-product) |
 ## Hash Table
 |  |
@@ -52,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 ## Binary Tree
 |  |
@@ -158,4 +163,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
