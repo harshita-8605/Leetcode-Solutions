@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
@@ -54,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
