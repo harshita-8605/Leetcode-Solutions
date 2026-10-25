@@ -1,8 +1,8 @@
 # Write your MySQL query statement below
-SELECT A1.machine_id AS machine_id, ROUND(
-    AVG(A2.timestamp - A1.timestamp),3) AS processing_time
-FROM Activity AS A1
-INNER JOIN Activity AS A2
-ON A1.machine_id = A2.machine_id && A1. process_id = A2.process_id
-WHERE A1.activity_type = 'start' && A2.activity_type = 'end'
-GROUP BY A1.machine_id
+SELECT A1.machine_id, 
+    ROUND(SUM(A2.timestamp - A1.timestamp) / COUNT(A1.machine_id),3) AS processing_time
+FROM ACTIVITY AS A1 
+INNER JOIN ACTIVITY AS A2
+ON A1.MACHINE_ID = A2.MACHINE_ID AND A1.PROCESS_ID = A2.PROCESS_ID
+WHERE A1.ACTIVITY_TYPE = 'START' AND A2.ACTIVITY_TYPE = 'END'
+GROUP BY machine_id
