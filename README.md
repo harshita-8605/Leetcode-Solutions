@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Backtracking
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Counting
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [2939-maximum-xor-product](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/2939-maximum-xor-product) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Tree
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -186,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+## Prefix Sum
+|  |
+| ------- |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/harshita-8605/Leetcode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 <!---LeetCode Topics End-->
